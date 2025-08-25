@@ -1,6 +1,6 @@
 ## My Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,ruby,rails,react,nextjs,nodejs,nestjs,tailwind,docker,linux" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,ruby,rails,react,nextjs,nodejs,nestjs,prisma,postgres,tailwind,docker,linux" /> <br /><br />
 
 
 ## My stats
