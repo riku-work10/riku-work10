@@ -5,7 +5,6 @@
 
 ## My stats
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riku-work10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-  <img src="https://github-readme-stats.vercel.app/api?username=riku-work10&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
+<img src="https://github-readme-stats.vercel.app/api?username=riku-work10&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riku-work10&layout=compact&theme=chartreuse-dark" height="180" alt="Top Languages" />
 </div>
-
